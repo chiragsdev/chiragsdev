@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on [Linkedin](https://linkedin.com/)
+- 👯 I’m looking to collaborate on **Backend project**
 
 - 💬 Ask me about **#mern #dsa #leetcode**
 
