@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Solanki</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="coding"  width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag-solanki6804&label=Profile%20views&color=0e75b6&style=flat" alt="chirag-solanki6804" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **BACKEND project**
 
-- 💬 Ask me about **#mern #dsa #leetcode**
+- 💬 Ask me about **#mern #dsa #leetcode #flutter**
 
 - 📫 How to reach me **crs279836@gmail.com**
 
