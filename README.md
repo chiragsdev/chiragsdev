@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **#mern #dsa #leetcode #flutter**
 
-- 📫 How to reach me **crs279836@gmail.com**
+- 📫 How to reach me **sc494802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
