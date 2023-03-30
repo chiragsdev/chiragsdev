@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK Development**
 
-- 👯 I’m looking to collaborate on **BACKEND project**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 💬 Ask me about **#mern #dsa #leetcode #flutter**
 
