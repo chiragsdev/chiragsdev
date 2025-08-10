@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Full Stack  
-[![Full Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,reactnative,nodejs,express,prisma,postgres,mysql,mongodb&perline=14)](https://skillicons.dev)  
+[![Full Stack](https://skillicons.dev/icons?i=typescript,react,nextjs,redux,tailwind,reactnative,nodejs,express,prisma,mysql,mongodb,redis&perline=14)](https://skillicons.dev)  
 
 ### ☁ DevOps & Cloud + 🧪 Testing & Tools  
 [![DevOps & Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git&perline=14)](https://skillicons.dev)  
