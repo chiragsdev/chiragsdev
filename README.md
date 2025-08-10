@@ -1,22 +1,22 @@
 <h1 align="left">Hi 👋, I'm Chirag Solanki</h1>
-<h4 align="left">I am a Full-Stack Developer with a 6+ months of experience and worked with technologies like React.js, Node.js, Express.js. Currently I am pursuing my Bachelors in Computer Science. I am looking for Full Stack Developer Roles.</h4>
+<h4 align="left">Full-stack + DevOps + GenAI = My toolkit for building end-to-end solutions 🚀</h4>
 
-- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/Chew-Chew">Chew Chew</a> and  <a href ="https://github.com/chiragaug6/DevSkillz/">DevSkillz</a> 
-- 🌱 I’m currently exploring **NextJS**
-- 👯 I’m looking to collaborate on **Full-Stack Developer Roles**
+💼 I’m currently working at **Zeus AI** as a **Software Developer**, building **web & mobile apps** using **MERN stack** and **React Native**  
+🛠 Skilled at **deploying scalable applications** from code to cloud  
+🌱 Actively learning and experimenting with **Generative AI** to create intelligent products  
+🤝 Open to collaborating on **Full-stack, DevOps, and AI-driven projects**  
 
-<h3>Connect with me: </h3>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sc494802@gmail.com">
+---
+
+<h3>🌐 Connect with me</h3>
+<a href="mailto:sc494802@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/chiragaug6/">
+</a>
+<a href="https://www.linkedin.com/in/chiragaug6/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+</a>
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,c,css,html,react,nodejs,express,redux,mongodb,mysql,git,jest,tailwind,bootstrap,materialui,babel,vite,vscode,webpack,postman&perline=11)](https://skillicons.dev)
+---
 
-## Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiragaug6&repo=food-ordering-app&theme=dark)](https://github.com/chiragaug6/food-ordering-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiragaug6&repo=DevSkillz&theme=dark)](https://github.com/chiragaug6/devSkillz/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chiragaug6&repo=CooksCorner&theme=dark)](https://github.com/chiragaug6/CooksCorner)
+## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nextjs,nodejs,express,redux,mongodb,mysql,git,docker,kubernetes,aws,nginx,jenkins,jest,tailwind,bootstrap,materialui,postman,reactnative&perline=11)](https://skillicons.dev)
