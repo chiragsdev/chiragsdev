@@ -18,5 +18,16 @@
 
 ---
 
-## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,redux,mongodb,mysql,postgress,prisma,git,docker,linux,kubernetes,aws,prometheus,grafana,nginx,jenkins,jest,tailwind,postman,reactnative&perline=11)](https://skillicons.dev)
+## 🛠 Tech Stack  
+
+### 💻 Frontend  
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,reactnative&perline=8)](https://skillicons.dev)  
+
+### ⚙ Backend  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb&perline=8)](https://skillicons.dev)  
+
+### ☁ DevOps & Cloud  
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux&perline=8)](https://skillicons.dev)  
+
+### 🧪 Testing & Tools  
+[![Tools](https://skillicons.dev/icons?i=postman,jest,git&perline=8)](https://skillicons.dev)  
