@@ -20,14 +20,8 @@
 
 ## 🛠 Tech Stack  
 
-### 💻 Frontend  
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,reactnative&perline=8)](https://skillicons.dev)  
+### 💻 Full Stack  
+[![Full Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,reactnative,nodejs,express,prisma,postgres,mysql,mongodb&perline=14)](https://skillicons.dev)  
 
-### ⚙ Backend  
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb&perline=8)](https://skillicons.dev)  
-
-### ☁ DevOps & Cloud  
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux&perline=8)](https://skillicons.dev)  
-
-### 🧪 Testing & Tools  
-[![Tools](https://skillicons.dev/icons?i=postman,jest,git&perline=8)](https://skillicons.dev)  
+### ☁ DevOps & Cloud + 🧪 Testing & Tools  
+[![DevOps & Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git&perline=14)](https://skillicons.dev)  
