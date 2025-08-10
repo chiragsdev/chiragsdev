@@ -9,14 +9,14 @@
 ---
 
 <h3>🌐 Connect with me</h3>
-<a href="mailto:sc494802@gmail.com">
+<a href="mailto:chiragsolanki.me@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.linkedin.com/in/chiragaug6/">
+<a href="https://www.linkedin.com/in/chiragsdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 ---
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nextjs,nodejs,express,redux,mongodb,mysql,git,docker,kubernetes,aws,nginx,jenkins,jest,tailwind,bootstrap,materialui,postman,reactnative&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,redux,mongodb,mysql,postgress,prisma,git,docker,linux,kubernetes,aws,prometheus,grafana,nginx,jenkins,jest,tailwind,postman,reactnative&perline=11)](https://skillicons.dev)
