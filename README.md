@@ -18,6 +18,15 @@
 ### ☁ DevOps, Cloud & Tools  
 [![DevOps & Tools](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git&perline=14)](https://skillicons.dev)  
 
+### 🤖 Generative AI (Exploring)  
+[![Gen AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=14)](https://skillicons.dev)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" style="filter: invert(40%);"/>  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" />  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" />  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="40" /> 
+
 ---
 
 ## 🌐 Let’s connect and create something amazing!  
