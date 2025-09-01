@@ -30,3 +30,6 @@
 <a href="https://www.linkedin.com/in/chiragsdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://x.com/chiragsdev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
