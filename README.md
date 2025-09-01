@@ -16,7 +16,7 @@
 [![Full Stack](https://skillicons.dev/icons?i=typescript,react,nextjs,redux,tailwind,mui,nodejs,express,prisma,mysql,mongodb,redis,kafka&perline=14)](https://skillicons.dev)  
 
 ### ☁ DevOps, Cloud & Tools  
-[![DevOps & Tools](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git&perline=14)](https://skillicons.dev)  
+[![DevOps & Tools](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git,githubactions&perline=14)](https://skillicons.dev)  
 
 ### 🤖 Generative AI (Exploring)  
 [![Gen AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=14)](https://skillicons.dev)  
