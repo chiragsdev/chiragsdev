@@ -19,7 +19,7 @@
 [![DevOps & Tools](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,jenkins,prometheus,grafana,linux,postman,jest,git,githubactions&perline=14)](https://skillicons.dev)  
 
 ### 🤖 Generative AI (Exploring)  
-[![Gen AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,transformers,huggingface,onnx,diffusers&perline=14)](https://skillicons.dev)
+[![Gen AI](https://skillicons.dev/icons?i=python,fastapi,&perline=14)](https://skillicons.dev)
 
 ---
 
